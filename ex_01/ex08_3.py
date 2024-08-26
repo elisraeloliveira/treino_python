@@ -1,3 +1,6 @@
+# uso do elif
+# use of elif
+
 idade = int(input("qual sua idade? "))
 
 if idade > 17:
