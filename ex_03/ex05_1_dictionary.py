@@ -15,5 +15,5 @@ print(pessoa)
 
 print(pessoa_ex02["idade"]) #para acessar valores dentro de um dicionário
 
-pessoa["nome"] = "Oliveira"  #método para modificação de dados
+pessoa["nome"] = "Oliveira"  # metodo para modificação de dados
 print(pessoa)
